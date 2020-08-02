@@ -1,0 +1,75 @@
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 162.158.92.139
+deny from 162.158.89.178
+deny from 162.158.88.47
+deny from 162.158.90.75
+deny from 162.158.94.5
+deny from 162.158.88.191
+deny from 192.158.0.0/16
+
+# Copy redirects from https://docs.google.com/spreadsheets/d/1S8PVKDcX6q1eI70L7xUPMkOxKT8dpMMVudzlSpsPCcU/edit#gid=2082523473
+
+
+Redirect 301 /blog/government-spending/corporate-welfare/corporate-welfare-statistics-vs-social-welfare-statistics/  https://thinkbynumbers.org/government-spending/corporate-welfare/corporate-vs-social-welfare/
+Redirect 301 /blog/2008/03/corporate-vs-social-welfare.html   https://thinkbynumbers.org/government-spending/corporate-welfare/corporate-vs-social-welfare/
+Redirect 301 /government-spending/corporate-welfare/corporate-welfare-statistics-vs-social-welfare-statistics/  https://thinkbynumbers.org/government-spending/corporate-welfare/corporate-vs-social-welfare/
+Redirect 301 /404.html?page=/government-spending/corporate-welfare/corporate-welfare-statistics-vs-social-welfare-statistics/&from=  https://thinkbynumbers.org/government-spending/corporate-welfare/corporate-vs-social-welfare/
+Redirect 301 /government-spending/anti-terrorism-spending-disproportionate-to-threat/  https://thinkbynumbers.org/government-spending/false-sense-of-insecurity/ 
+Redirect 301 /anti-terrorism-spending-disproportionate-to-threat/  https://thinkbynumbers.org/government-spending/false-sense-of-insecurity/ 
+Redirect 301 /suicide-terrorism-statistics/  https://thinkbynumbers.org/terrorism/suicide-terrorism-statistics/
+Redirect 301 /drug-war-statistics/  https://thinkbynumbers.org/government-spending/drug-war-statistics/
+Redirect 301 /debt/cause-financial-crisis/  https://thinkbynumbers.org/debt/household-debt-to-gdp-ratio-100/
+Redirect 301 /military/war/iraq-facts-statistics/  https://thinkbynumbers.org/military/war/posts/
+Redirect 301 /abolitionist-project/  https://thinkbynumbers.org/3-easy-steps/
+Redirect 301 /government-spending/corporate-welfare/financial-sector-takes-largest-share-of-gdp/  https://thinkbynumbers.org/government-spending/corporate-welfare/financial-sector-costs-us-more-than-all/
+Redirect 301 /author/mikepsinn/  https://mikesinn.com
+Redirect 301 /blog/government-spending/anti-terrorism-spending-disproportionate-to-threat/  https://thinkbynumbers.org/government-spending/false-sense-of-insecurity/ 
+
+Redirect 301 /blog/government-spending/anti-terrorism-spending-disproportionate-to-threat/  https://thinkbynumbers.org/government-spending/false-sense-of-insecurity/ 
+
+Redirect 301 /404.html  https://thinkbynumbers.org/government-spending/corporate-welfare/corporate-vs-social-welfare/
+
+Redirect 301 /government-spending/corporate-welfare/aig-bailout-details/  https://thinkbynumbers.org/government-spending/corporate-welfare/what-would-happen-if-we-let-aig-fail/
+
+Redirect 301 /blog/  https://thinkbynumbers.org/
+
+Redirect 301 /corporate-welfare-statistics-vs-social-welfare-statistics/  https://thinkbynumbers.org/government-spending/corporate-welfare/corporate-vs-social-welfare/
+
+Redirect 301 /government-spending/military/war/iraq-facts-statistics/  https://thinkbynumbers.org/military/war/posts/
+
+Redirect 301 /government-spending/corporate-welfare/corporate-welfare-statistics-vs-social-welfare-statistics  https://thinkbynumbers.org/government-spending/corporate-welfare/corporate-vs-social-welfare/
+
+
+Redirect 301 /government-spending/corporate-welfare/government-pays-doctors-to-use-ipad/  https://thinkbynumbers.org/government-spending/corporate-welfare/more-upward-wealth-redistribution-from/
+
+Redirect 301 /government-spending/corporate-welfare/government-pays-doctors-to-use-ipad/  https://thinkbynumbers.org/government-spending/corporate-welfare/more-upward-wealth-redistribution-from/
+
+
+#Redirect 301 /index.html  https://thinkbynumbers.org/
+
+
+
+
+
+
+
+
+
+
+
+

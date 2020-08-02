@@ -1,0 +1,103 @@
+﻿��b u s h   t a x   c u t s          " , " 
+ 
+ c e n s u s   s t a t i s t i c s          " , " 
+ 
+ c o n s u m p t i o n   t a x          " , " 
+ 
+ c o r p o r a t e   i n c o m e          " , " 
+ 
+ c o r p o r a t e   i n c o m e   t a x          " , " 
+ 
+ c o r p o r a t e   t a x          " , " 
+ 
+ c r i m e   s t a t i s t i c s          " , " 
+ 
+ d e f e n s e   s p e n d i n g          " , " 
+ 
+ d e f i c i t   s p e n d i n g          " , " 
+ 
+ d e s c r i p t i v e   s t a t i s t i c s          " , " 
+ 
+ e c o n o m i c   s t a t i s t i c s          " , " 
+ 
+ f a i r   t a x          " , " 
+ 
+ f e d e r a l          " , " 
+ 
+ f e d e r a l   c e n s u s          " , " 
+ 
+ f e d e r a l   d e f i c i t          " , " 
+ 
+ f e d e r a l   g o v e r n m e n t          " , " 
+ 
+ f e d e r a l   g o v e r n m e n t   t a x          " , " 
+ 
+ f e d e r a l   i t   s p e n d i n g          " , " 
+ 
+ f e d e r a l   p a y r o l l   t a x e s          " , " 
+ 
+ f e d e r a l   r e p o r t e r          " , " 
+ 
+ f e d e r a l   s p e n d i n g          " , " 
+ 
+ f e d e r a l   t a x   c u t          " , " 
+ 
+ f e d e r a l   t a x   r e v e n u e          " , " 
+ 
+ g o v e r n m e n t          " , " 
+ 
+ g o v e r n m e n t   d e f i c i t          " , " 
+ 
+ g o v e r n m e n t   f u n d i n g          " , " 
+ 
+ g o v e r n m e n t   s p e n d i n g          " , " 
+ 
+ g o v e r n m e n t   t a x          " , " 
+ 
+ h e a l t h c a r e   s t a t i s t i c s          " , " 
+ 
+ i n c o m e   t a x          " , " 
+ 
+ i r s   t a x          " , " 
+ 
+ l a b o r   s t a t i s t i c s          " , " 
+ 
+ m i l i t a r y   s p e n d i n g          " , " 
+ 
+ p r o p e r t y   t a x          " , " 
+ 
+ s p e n d i n g          " , " 
+ 
+ s t a t e   c o r p o r a t e   i n c o m e   t a x          " , " 
+ 
+ s t a t i s t i c s          " , " 
+ 
+ s t a t i s t i c s   c o m m i s s i o n          " , " 
+ 
+ t a x   a b a t e m e n t          " , " 
+ 
+ t a x   a b a t e m e n t s          " , " 
+ 
+ t a x   c u t          " , " 
+ 
+ t a x   c u t s          " , " 
+ 
+ t a x   d a t a          " , " 
+ 
+ t a x   i n c r e a s e          " , " 
+ 
+ t a x   i n c r e a s e s          " , " 
+ 
+ t a x   r a t e s          " , " 
+ 
+ t a x   r e p o r t          " , " 
+ 
+ t a x   s o f t w a r e          " , " 
+ 
+ t a x   s t a t u s          " , " 
+ 
+ u n e m p l o y m e n t   s t a t i s t i c s          " , " 
+ 
+ u s   g d p   g r o w t h          " , " 
+ 
+ v a l u e   t a x          " , "

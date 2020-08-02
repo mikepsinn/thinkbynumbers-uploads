@@ -1,0 +1,123 @@
+.date {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px}
+
+.menulinks {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: #003399;
+
+A:  {
+
+	color : #055fa0;
+
+	text-decoration : underline;
+
+	}
+
+A:hover  {
+
+	color : #ffffff;
+
+	text-decoration : none;
+
+	background-color : #003399;
+
+	}
+
+}
+
+.mainhead {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 20px; font-weight: bold; color: #003399}
+
+.normal {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; letter-spacing: normal; word-spacing: 1px; text-align:left;}
+
+.bluesub {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #FFFFFF}
+
+.bluehead {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #FFFFFF}
+
+.mainsubhead {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-style: italic}
+
+.coollinkbox {
+font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: normal; color: #FFFFFF;
+
+A:  {
+
+	color : #ffffff;
+
+	text-decoration : underline;
+
+	 
+}
+.coollinkboxlarge {
+
+font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; color: #FFFFFF;
+
+A:  {
+
+	color : #ffffff;
+
+	text-decoration : underline;
+}
+.cool {
+
+font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #FFFFFF;
+
+A:  {
+
+	color : #ffffff;
+
+	text-decoration : underline;
+}
+/* begin styles for RSS Feed */
+
+.rss_box {
+	 margin: 10px;
+	 padding: 4px 8px;
+
+	 background-color: #ccddff;
+	 border: 2px dashed #ffffff;
+}
+
+.rss_title, rss_title a {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 18px;
+	font-weight:bold;
+	margin: 5px 0;
+	padding: 0;
+	letter-spacing: 1px;
+}
+
+.rss_items {
+  
+}
+
+.rss_item  {
+  font-family: verdana, arial, sans-serif;
+  font-size: 10px;
+  font-weight : bold; 
+  margin: 8px 0;
+}
+
+.rss_item a:link, .rss_item a:visited, .rss_item a:active {
+	text-decoration : underline;
+	border-bottom: 1px solid #ededed;
+	color: #000000;
+	}
+
+.rss_item a:hover { 
+    background-color:   #cc99cc;
+    color: black;
+	}
+	
+.rss_date {
+	font-size: 8px;
+	font-weight : normal;
+	color: #000000;
+	}
+	
+.legendbox {
+	padding: 4px;
+	
+	}
+ img.leftb {
+float:left;
+margin:0 5px 0 0;
+border: solid 3px #000;
+width:130px;
+height:165px;
+}
